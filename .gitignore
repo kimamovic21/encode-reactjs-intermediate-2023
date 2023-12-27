@@ -6,3 +6,6 @@
 
 /05_recipes_app/client/node_modules
 /05_recipes_app/server/node_modules
+
+/06_recipes_app/client/node_modules
+/06_recipes_app/server/node_modules
