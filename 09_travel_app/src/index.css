@@ -1,0 +1,14 @@
+body {
+  background-color: #f9f9f9;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper {
+  padding: 20px;
+
+  .wrapper-header {
+    color: blue;
+  }
+}
