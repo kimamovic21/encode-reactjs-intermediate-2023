@@ -15,3 +15,6 @@
 
 /08_recipes_app/client/node_modules
 /08_recipes_app/server/node_modules
+
+/10_recipes_app/client/node_modules
+/10_recipes_app/server/node_modules
